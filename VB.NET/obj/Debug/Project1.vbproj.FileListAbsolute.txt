@@ -1,0 +1,186 @@
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Interop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Interop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\AxInterop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\Project1.exe
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\Project1.pdb
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\Project1.xml
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\Interop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\Interop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\bin\AxInterop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.frmMain.resources
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.exe
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.xml
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB\Version 1.0\Project1.NET\obj\Debug\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Interop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Interop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\AxInterop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.exe
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.xml
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\Project1.exe
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\Project1.xml
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\Interop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\Interop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\bin\AxInterop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.frmMain.resources
+E:\LogicInside\LIGroups 09-10\LIG#803\Code\VB.net\Project1.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Interop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Interop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\AxInterop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Project1.exe
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Project1.xml
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp Wired DB\VB.net\Project1.NET\obj\Debug\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Interop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Interop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\AxInterop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.exe
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.xml
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\Project1.exe
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\Project1.pdb
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\Project1.xml
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\Interop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\Interop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\bin\AxInterop.MSCommLib.dll
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.frmMain.resources
+E:\LogicInside\LIGroups 09-10\LIG#992\Code\VB\Project1.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Interop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.exe
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.xml
+E:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Interop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIProjects\LIP#118\Code\HeartBeat Temp RF DB AT SMS\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\bin\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\bin\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\bin\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmP1.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmP2.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmDBPatient1.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmDBPatient2.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmMAP2.resources
+D:\LogicInside\LIGroups 11-12\LIG#808\Code\VB.NET\obj\Debug\Project1.frmMAP1.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\bin\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\bin\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\bin\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.frmECG.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.frmTHB.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\VB.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\bin\Project1.exe
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\bin\Project1.pdb
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\bin\Project1.xml
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.frmECG.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.frmMain.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.frmTHB.resources
+D:\LogicInside\LIGroups 11-12\LIG#912\Code\VB.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+F:\FINAL_28_4Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.exe
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.xml
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.pdb
+F:\FINAL_28_4Code\VB.NET\bin\Project1.exe
+F:\FINAL_28_4Code\VB.NET\bin\Project1.pdb
+F:\FINAL_28_4Code\VB.NET\bin\Project1.xml
+F:\FINAL_28_4Code\VB.NET\bin\Interop.MSChart20Lib.dll
+F:\FINAL_28_4Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+F:\FINAL_28_4Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmECG.resources
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmMain.resources
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmTHB.resources
+F:\FINAL_28_4Code\VB.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.exe
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.xml
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.pdb
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\bin\Project1.exe
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\bin\Project1.pdb
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\bin\Project1.xml
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\bin\Interop.MSChart20Lib.dll
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmECG.resources
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmMain.resources
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.frmTHB.resources
+C:\Users\Sunil Maurya\Desktop\912\FINAL_28_4Code\VB.NET\obj\Debug\Project1.vbproj.GenerateResource.Cache
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIProjects 12-13\LIP#118\Code\New Codes\Code ARM7 VB.net Temp Heartbeat ECG Graph LIVE\VB.NET\obj\Debug\Project1.pdb
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.exe
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.xml
+D:\LogicInside\LIGroups 12-13\LIG#805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.pdb
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.vbproj.ResolveComReference.cache
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.exe
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.xml
+I:\805\Code BT JEME LIVE\VB.NET\obj\Debug\Project1.pdb

@@ -1,0 +1,76 @@
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\Interop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.exe
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.xml
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.pdb
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\SCADA.exe
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\SCADA.pdb
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\SCADA.xml
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\Interop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\bin\AxInterop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.frmPat.resources
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.frmMain.resources
+D:\LogicInside\LIProjects\LIP#367\EXP\VB.NET\obj\Debug\SCADA.vbproj.GenerateResource.Cache
+C:\LogicInside\Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+C:\LogicInside\Code\VB.NET\obj\Debug\Interop.MSCommLib.dll
+C:\LogicInside\Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+C:\LogicInside\Code\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.vbproj.ResolveComReference.cache
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.exe
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.xml
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.pdb
+C:\LogicInside\Code\VB.NET\bin\SCADA.exe
+C:\LogicInside\Code\VB.NET\bin\SCADA.pdb
+C:\LogicInside\Code\VB.NET\bin\SCADA.xml
+C:\LogicInside\Code\VB.NET\bin\Interop.MSChart20Lib.dll
+C:\LogicInside\Code\VB.NET\bin\Interop.MSCommLib.dll
+C:\LogicInside\Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+C:\LogicInside\Code\VB.NET\bin\AxInterop.MSCommLib.dll
+C:\LogicInside\Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.frmPat.resources
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.frmMain.resources
+C:\LogicInside\Code\VB.NET\obj\Debug\SCADA.vbproj.GenerateResource.Cache
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\Interop.MSCommLib.dll
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.vbproj.ResolveComReference.cache
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.exe
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.xml
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.pdb
+C:\LogicInside\Code - Copy\VB.NET\bin\SCADA.exe
+C:\LogicInside\Code - Copy\VB.NET\bin\SCADA.pdb
+C:\LogicInside\Code - Copy\VB.NET\bin\SCADA.xml
+C:\LogicInside\Code - Copy\VB.NET\bin\Interop.MSChart20Lib.dll
+C:\LogicInside\Code - Copy\VB.NET\bin\Interop.MSCommLib.dll
+C:\LogicInside\Code - Copy\VB.NET\bin\AxInterop.MSChart20Lib.dll
+C:\LogicInside\Code - Copy\VB.NET\bin\AxInterop.MSCommLib.dll
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.frmPat.resources
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.frmMain.resources
+C:\LogicInside\Code - Copy\VB.NET\obj\Debug\SCADA.vbproj.GenerateResource.Cache
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\Interop.MSChart20Lib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\Interop.MSCommLib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\AxInterop.MSChart20Lib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\AxInterop.MSCommLib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.vbproj.ResolveComReference.cache
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.exe
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.xml
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.pdb
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\SCADA.exe
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\SCADA.pdb
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\SCADA.xml
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\Interop.MSChart20Lib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\Interop.MSCommLib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\AxInterop.MSChart20Lib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\bin\AxInterop.MSCommLib.dll
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.frmPat.resources
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.frmMain.resources
+C:\Users\Mohan Pingale\Desktop\Code\VB.NET\obj\Debug\SCADA.vbproj.GenerateResource.Cache

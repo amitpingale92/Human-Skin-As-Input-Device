@@ -1,0 +1,95 @@
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\bin\SCADA.exe
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\bin\SCADA.xml
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.frmHum.resources
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.frmLight.resources
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.frmLPG.resources
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.frmMain.resources
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.frmTemp.resources
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIGroups 12-13\LIG#805\Code J2ME GPRS LIVE T L H LPG CTRL .NET\VB.NET\obj\Release\SCADA.xml
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\SCADA.exe
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\SCADA.xml
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmHum.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLight.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogHum.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogLight.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogLPG.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogTemp.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLPG.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmMain.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmSMStx.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmTemp.resources
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIGroups 12-13\LIG#810\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.xml
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\SCADA.exe
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\SCADA.xml
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\bin\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmHum.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLight.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogHum.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogLight.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogLPG.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLogTemp.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmLPG.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmMain.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.frmTemp.resources
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.vbproj.GenerateResource.Cache
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIGroups 13-14\LIG#951\Code 8051 LCD VB.NET T L H LPG CTRL SQL SMS\VB.NET\obj\Release\SCADA.xml
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\Interop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\AxInterop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIProjects\LIP#078\Code\Code 8051 LCD VB.NET T L H LPG CTRL SQL\VB.NET\obj\Release\SCADA.xml
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\SCADA.xml
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\SCADA.exe
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\SCADA.xml
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\Interop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\Interop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\bin\AxInterop.MSCommLib.dll
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\ResolveAssemblyReference.cache
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\SCADA.frmMain.resources
+D:\LogicInside\LIGroups 13-14\LIG#502\Code test VB.net\VB.NET\obj\Release\SCADA.vbproj.GenerateResource.Cache
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\Interop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\Interop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\AxInterop.MSChart20Lib.dll
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\AxInterop.MSCommLib.dll
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\SCADA.vbproj.ResolveComReference.cache
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\SCADA.exe
+D:\LogicInside\LIProjects\LIP#228\Experiment\VB.NET\obj\Release\SCADA.xml
